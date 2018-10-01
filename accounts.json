@@ -1,0 +1,37 @@
+{
+  "facebook": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "google": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "instagram": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "linkedin": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "reddit": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "tumblr": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  },
+  "twitter": {
+    "username": "",
+    "password": "",
+    "oauth_token": ""
+  }
+}
